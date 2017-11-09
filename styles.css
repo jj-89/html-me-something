@@ -1,0 +1,38 @@
+body{
+    background-color: #813900;
+
+}
+#wrapper{
+    margin: 2.5%;
+    background-color:tan;
+    /* background-image: url("images/taj-mahal.jpg"); */
+    /* background-size: cover; */
+
+}
+#main-header{
+    text-align: center;
+    background-color: #CD853F;
+    height: 100px;
+    margin-bottom: 50px;
+
+}
+div main header h1{
+    padding-top: 25px;
+
+}
+div p{
+    text-align: center;
+    /* color: #813900; */
+    font-size: 1.5em;
+}
+
+img{
+    width: 75%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+footer{
+    text-align: center;
+    color: #cd853f;
+}
